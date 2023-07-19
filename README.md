@@ -1,12 +1,18 @@
 # Hello Project on Internet Computer (ICP) Blockchain
 
-![Internet Computer](https://example.com/icp_logo.png)
-
 Welcome to the Hello Project! This project serves as a critical step in verifying system compatibility and ensuring the proper installation of prerequisites necessary for developing more complex decentralized applications (Dapps) on the Internet Computer (ICP) blockchain.
 
 ## Purpose
 
 The primary objective of the Hello Project is to meticulously validate the system's compatibility and configuration for ICP blockchain development. By creating a simple Dapp and simulating it on a local ICP blockchain, we can confidently ascertain that all essential components are properly set up and ready for more intricate development tasks.
+
+# Getting Started
+## Prerequisites
+Before diving into the Hello Project, it is essential to ensure that the following prerequisites are met:
+
+- Internet Computer Canister SDK: The SDK must be installed to enable seamless interactions with ICP canisters.
+- Node.js: Required for frontend development and managing project dependencies.
+- Internet Computer Replica (IC Replica): Set up a local replica to efficiently test and deploy the Dapp.
 
 ## Running the project locally
 
